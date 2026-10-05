@@ -209,4 +209,4 @@ Penumbra: Overture is available as a **full free version**, with all features an
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-05 08:46:26 UTC
+**Last updated:** 2026-10-05 18:13:51 UTC
